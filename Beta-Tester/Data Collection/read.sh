@@ -1,0 +1,2 @@
+read line
+echo $line

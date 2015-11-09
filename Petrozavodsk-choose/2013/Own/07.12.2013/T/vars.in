@@ -1,0 +1,5 @@
+i,   j, k : integer ;
+flag: boolean;
+length: integer;
+c1, c2: char;
+c3: char;

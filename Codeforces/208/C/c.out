@@ -1,0 +1,5 @@
+pushStack
+pushFront
+pushQueue
+pushBack
+3 popStack popQueue popBack
